@@ -1,0 +1,9 @@
+# Spec inputs (download from the Broadband Forum) and generated output
+*.xml
+*.html
+*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
